@@ -1,0 +1,12 @@
+@import '../SCSS/variables';
+@import '../SCSS/mixins';
+
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+.App{
+    font-family: 'Oswald';
+    h1,h2,h3{
+        font-family: 'Oswald';
+    }
+}
